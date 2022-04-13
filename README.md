@@ -1,2 +1,5 @@
 # golang-mongodb-redis-restful-api
-Restful api with golang-mongodb-redis
+This projects is Restful api with golang-mongodb-redis for a basic Todo app
+
+
+
